@@ -10,3 +10,7 @@ Steps to run the project
 2. open it in VS code or any code editor
 3. open the terminal
 4. run command: "python manage.py runserver" to run the project.
+
+
+![Screenshot (261)](https://user-images.githubusercontent.com/92996109/177031960-ec2835b5-f935-4548-9f07-c514d0bc5e1e.png)
+![Screenshot (262)](https://user-images.githubusercontent.com/92996109/177031962-b2ff174b-211e-4b89-8f94-a023f110528e.png)
