@@ -1,5 +1,6 @@
 # Django
-CRUD Operations
+CRUD Operations.
+
 This project is developed using django framework and mysqlite3 database model and HTML, CSS for frontend
 this project has an interface where we have one form for adding details and table
 to show the data reflected and user also delete and modify the data as needed.
